@@ -7,4 +7,4 @@ To do this we connect to the database in .json format, convert the fields that i
 
 Once the script is developed, we deploy it on a website with the Streamlit library and test it localhost.  
 
-![Deploy Web App in localhost](../image/Web_App_localhost.gif)
+![Deploy Web App in localhost](/image/Web_App_localhost.gif)
