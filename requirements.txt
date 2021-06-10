@@ -1,6 +1,5 @@
 numpy
 requests
 pandas
-warnings
 time
 streamlit
