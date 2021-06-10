@@ -4,16 +4,16 @@
 # In[2]:
 
 
-import urllib.request
+#import urllib.request
 import numpy as np
 import requests
 import pandas as pd
 import json
-import io
+#import io
 import warnings
 import time
 import streamlit as st
-import plotly.express as px
+#import plotly.express as px
 
 
 @st.cache(ttl=60*60*24*7 ,max_entries=30)
