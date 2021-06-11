@@ -1,7 +1,7 @@
 # 💻🔗Python Web Applications: Deploy Script as a Streamlit App
 #### Finding sources of European funding repository (https://ec.europa.eu/)
 
-Webapp: [**https://app-web-query-eu-funding.herokuapp.com/**](https://app-web-query-eu-funding.herokuapp.com/)
+Webapp: [**https://app-web-query-eu-funding.herokuapp.com/**](https://app-web-query-eu-funding.herokuapp.com/){:target="_blank"}
 
 We are going to develop a simple Python script to extract the database of European calls for funding and perform the search on the titles or tags of the different open calls.
 To do this we connect to the database in .json format, convert the fields that interest us into dataframe, select the open calls and perform searches from keywords.  
@@ -50,4 +50,4 @@ Once we link with our GitHub user, we search for the repository and connect.
 
   When everything is correct, it will indicate "Build succeeded" and you can open the application to check it.
 
-  [**https://app-web-query-eu-funding.herokuapp.com/**](https://app-web-query-eu-funding.herokuapp.com/)
+  [**https://app-web-query-eu-funding.herokuapp.com/**](https://app-web-query-eu-funding.herokuapp.com/){:target="_blank"}
